@@ -19,6 +19,10 @@ Backend Developer | Telegram Bot Architect | Video Engineering Enthusiast
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-green?style=flat-square)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Frameworks / Libraries:**
 
