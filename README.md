@@ -15,7 +15,10 @@ Backend Developer | Telegram Bot Architect | Video Engineering Enthusiast
 
 **Programming Languages:**
 
-- ![Javascript Badge](https://img.shields.io/badge/JavaScript-yellow[TypeScript Badge](https://img.shields.io/badge/TypeScript-blue[Node.js Badge](https://img.shields.io/badge/Node.js-green[MongoDB Badge](https://img.shields.io/badge/MongoDB-dark  
+![Javascript Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue?style=flat-square)
+![Node.js Badge](https://img.shields.io/badge/Node.js-green?style=flat-square)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square)
 
 **Frameworks / Libraries:**
 
