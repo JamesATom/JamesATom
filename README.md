@@ -26,7 +26,7 @@ Backend Developer | Telegram Bot Architect | Video Engineering Enthusiast
 
 **Frameworks / Libraries:**
 
-- Express, NestJS, Mongoose, RabbitMQ
+- Express, Fastify, NestJS, Mongoose, RabbitMQ
 
 **Databases:**
 
@@ -34,13 +34,13 @@ Backend Developer | Telegram Bot Architect | Video Engineering Enthusiast
 
 **Video/Media:**
 
-- FFmpeg, Telegram API, OpenCV (learning)
+- FFmpeg, Telegram API
 
 ***
 
 ## ⚡ Software & Tools
 
-- Git, Docker, PM2, REST APIs
+- Git, Docker, REST APIs
 - Telegram API, Webhooks
 - Video processing algorithms, FFmpeg
 
@@ -72,4 +72,4 @@ Backend Developer | Telegram Bot Architect | Video Engineering Enthusiast
 
 ## 🏊 Fun Fact
 
-I love swimming, exploring film history, experimenting with new tech stacks, and always have a side project cooking!
+I love swimming, exploring history, experimenting with new tech stacks, and always have a side project cooking!
